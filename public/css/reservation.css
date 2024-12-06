@@ -1,0 +1,30 @@
+.table-hover tbody tr:hover {
+    background-color: #f5f5f5;
+}
+
+.badge-warning {
+    color: #212529;
+    background-color: #ffc107;
+}
+
+.badge-success {
+    background-color: #28a745;
+}
+
+.badge-warning {
+    color: #212529;
+    background-color: #ffc107;
+}
+
+.badge-success {
+    background-color: #28a745;
+}
+
+.form-switch input {
+    cursor: pointer;
+}
+
+.btn-action {
+    padding: 6px 12px;
+    font-size: 0.875rem;
+}
